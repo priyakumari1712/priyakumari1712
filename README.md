@@ -1,132 +1,163 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Priya+Kumari....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-<!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Priya Kumari, UI/UX and passionated Frontend Web Developer at Gravity Coding
-  <br>
-  <br>
-  🎓 I'm currently studying for my graduate at Gyan Ganga Institute of Technology & Sciences, Department of Computer Engineering
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Tailwind CSS and React JS
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/priyakumari1712/priyakumari1712/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: priyaagrwal858@gmail.com">priyaagrwal858@gmail.com</a>
-</p>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=priyakumari1712&theme=react&border=61dafb&hide_border=true" alt="priyakumari1712" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=priyakumari1712&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1712&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyakumari1712&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/priyakumari1712/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=priyakumari1712&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/priyakumari1712/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=priyakumari1712&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/priyakumari1712/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=priyakumari1712&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/priyakumari1712/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=priyakumari1712&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/priyakumari1712/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=priyakumari1712&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/priyakumari1712/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=priyakumari1712&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/priyakumari1712?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-
 <!--
-**priyakumari1712/priyakumari1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/priyakumari1712?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
+- !! Thank you for keeping this sign !!
+- Original Creation by Deri Kurniawan (Deri-Kurniawan)
+- Github Repository: https://github.com/Deri-Kurniawan/Deri-Kurniawan
+- ⭐ Don't forget to give a star ⭐
 -->
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'india';
+
+new Person({
+    name   : 'Priya Kumari',
+    title  : 'Frontend Web Developer',
+    email  : 'priyaagrwal858@gmail.com',
+    website: 'https://gravitycoding.com',
+}).introduce();
+```
+
+```cmd
+D:\Priya_Kumari> node index.js
+Hi, my name is Priya Kumari, I'm a Frontend Web Developer from India.
+```
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/priyakumari1712?label=Followers) ![Stars](https://img.shields.io/github/stars/priyakumari1712?label=Stars)
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌆 Daytime                15 commits        ███████████░░░░░░░░░░░░░░   43.37 % 
+🌃 Evening                20 commits        █████████░░░░░░░░░░░░░░░░   34.16 % 
+🌙 Night                  30 commits         ███░░░░░░░░░░░░░░░░░░░░░░   34.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               14 hrs 19 mins      █████████████████████░░░░   83.46 % 
+Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+reStructuredText         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 9 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07-05-2024 17:17:42 UTC
+<!--END_SECTION:waka-->
+  
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+</a>
+</p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">🔥Streak Stats🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://streak-stats.demolab.com?user=priyakumari1712&hide_border=true&type=png" alt="priyakumari1712" /></p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">⭐My Favorite Repo⭐</h3>
+
+<div>
+  <p align="center">
+	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/derizer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+  
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Support me -->
+<h3 align="center">☕Support Me☕</h3>
+
+<div align="center">
+  
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Amarjeet Chaudhary</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">

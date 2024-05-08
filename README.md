@@ -129,11 +129,9 @@ Windows                  17 hrs 9 mins       ███████████�
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-kumari-2939282a6/)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/nanhi)
+
   
 </div>
 
@@ -156,7 +154,7 @@ Windows                  17 hrs 9 mins       ███████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Amarjeet Chaudhary</a>
+    Made with ❤️ by <a href="https://github.com/priyakumari1712" target="_blank">Priya Kumari</a>
 </div>
 
 <!--x axis divider-->

@@ -8,12 +8,6 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<picture> 
-<a href="./Assets/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
-</a>
-</picture>
-
 ```js
 "use creativity";
 import { Person } from 'india';
